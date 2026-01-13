@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Muhammad Athar, a passionate software developer with extensive experience in building robust web applications, desktop solutions, and innovative tools. My expertise lies in leveraging modern frameworks and technologies to create efficient, scalable, and user-friendly systems.
+I’m Muhammad Athar, a passionate software developer with extensive experience in building robust web applications (PHP, Laravel, WordPress, VueJs, NodeJs), desktop solutions, and innovative tools. My expertise lies in leveraging modern frameworks and technologies to create efficient, scalable, and user-friendly systems.
 
 ---
 
