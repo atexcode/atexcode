@@ -7,6 +7,7 @@ I’m Muhammad Athar, a passionate software developer with extensive experience 
 ### 🔧 Skills & Expertise:
 
 - PHP (Laravel Framework)
+- WordPress Development
 - Vue.js (Version 3, Inertia.js)
 - MySQL
 - C# (.NET)
