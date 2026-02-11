@@ -10,12 +10,11 @@ I’m Muhammad Athar, a passionate software developer with extensive experience 
 - WordPress Development
 - Vue.js (Version 3, Inertia.js)
 - MySQL
-- C# (.NET)
 - JavaScript (Frontend & Backend Development)
 - Node.js
 - APIs Integration & Development
 - Fabric.js for product design tools
-- Desktop Applications Development
+- Desktop Applications Development - C# (.NET)
 
 ---
 
@@ -81,7 +80,7 @@ A dynamic routing library for Laravel that brings back implicit controller route
 
 ### 🔗 Connect with Me:
 
-- GitHub: [AtexCode](https://github.com/atexcode)
+- GitHub: [Athar Mehar](https://github.com/atharmehar)
 - Email: [athar.techs@gmail.com](mailto\:athar.techs@gmail.com)
 
 ---
